@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	b = termbars.New()
+    b := termbars.New()
 
 	b.SetTitle("Population example")
 	b.SetPercWidth(90)
